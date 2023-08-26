@@ -54,8 +54,8 @@ main {
 }
 .rounded-image {
   border-radius: 50%;
-  width: 20px;
-  height: 20px;
+  width: 200px;
+  height: 200px;
   margin: 20%;
 }
 
