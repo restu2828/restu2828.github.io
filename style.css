@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none
+}
+
+
+main {
+    padding: 1px;
+}
+
+
+#hero {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 2px 0;
+}
+#hero1 {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 2px 0;
+}
+
+#about, #services, #contact {
+    padding: 30px 0;
+ 
+}
+.image-container{
+  margin: 0;
+  
+}
+.rounded-image {
+  border-radius: 50%;
+  width: 280px;
+  height: 280px;
+  margin: 120px;
+}
+
+
+#about h2, #services h2, #contact h2 {
+    border-bottom: 2px solid #333333;
+    padding-bottom: 10px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #333;
+    color:#fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
